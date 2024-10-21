@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    padding: 5px 5px 0px 20px;
+}
+
+li {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    color: blue; /* 去除默认的颜色和点击后变化的颜色 */
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+.center {
+    text-align: center;
+}
+
+.block {
+    display: block;
+}
+
+.container {
+    width: 400px; /*需要设置宽度才有效*/
+    margin: 0 auto;
+    padding: 5px 5px 20px 5px;
+    /*background: #ccc;*/
+    /*background: #4B7C99;*/
+    background: #ffffff;
+}
+
+/*
+    子容器在父容器中居中 start
+*/
+.boxParent {
+    width: 400px;
+    /*height: 200px;*/
+    /*background: #aaaaff;*/
+}
+
+.boxChild {
+    width: 100px;
+    /*height: 100px;*/
+    /*background: #55ff00;*/
+    margin: 0 auto;
+}
+
+/*
+    子容器在父容器中居中 end
+*/
+
