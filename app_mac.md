@@ -61,7 +61,7 @@
 
 ### 系统工具
 
-- [App Cleaner & Uninstaller](https://macapp.org.cn/app/app-cleaner-and-uninstaller-pro.html)
+- [App Cleaner & Uninstaller](https://macapp.org.cn/app/app-cleaner-and-uninstaller/)
     - 卸载清理App的好工具
     - v8.1.4 可运行在 macOS 10.14 / 11
     - v7.8.2 可运行在 macOS 10.14 / 11

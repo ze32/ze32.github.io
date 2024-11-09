@@ -57,7 +57,9 @@
         - 来源：[free18/v2ray](https://github.com/free18/v2ray)
     - https://ghproxy.net/https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
         - 来源：[snakem982/proxypool](https://github.com/snakem982/proxypool)
-
+    - https://ghproxy.net/https://raw.githubusercontent.com/ivwv/chromego_convert/refs/heads/main/outputs/clash_meta_warp.yaml
+    - https://ghproxy.net/https://raw.githubusercontent.com/ivwv/chromego_convert/refs/heads/main/outputs/clash_meta.yaml
+        - 来源：[https://github.com/ivwv/chromego_convert](https://github.com/ivwv/chromego_convert)
 
 - base64 v2订阅：
     - https://ghproxy.net/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/yudou66.txt
@@ -93,6 +95,10 @@
 
 - [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler)
 
+- [https://github.com/NiREvil/vless](https://github.com/NiREvil/vless)
+
+- [https://github.com/MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram)
+
 - [https://stashnode.github.io/free-nodes/](https://stashnode.github.io/free-nodes/)
     - 每日更新订阅链接的，需访问网站获取
 
@@ -106,6 +112,9 @@
     - 每日更新订阅链接的，需访问网站获取
 
 - [https://myclash.github.io/free-nodes/](https://myclash.github.io/free-nodes/)
+    - 每日更新订阅链接的，需访问网站获取
+
+- [https://vergegithub.github.io/free-nodes/](https://vergegithub.github.io/free-nodes/)
     - 每日更新订阅链接的，需访问网站获取
 
 - [Clash订阅地址分享 （2024 持续更新）-Clash Sub](https://clashvpn.org/clash-subscribe-links-share/)
