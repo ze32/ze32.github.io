@@ -1,0 +1,67 @@
+# 大人NSFW
+
+## 导航
+- [蓝导航](https://lan.alinkdh.com/)
+- [娇色导航](https://jiao.se/)
+- [樱花导航](https://x6dh.com/)
+
+## 加料小说
+- [404书吧](https://404ba.org/)
+    - 需注册(邮箱可任意填)登录使用
+- [尚香书苑](https://sxsy08.com/)
+- [搜书论坛](https://sslt.xyz/)
+
+## galgame
+- [梓澪の妙妙屋](https://zi0.cc/)
+- [真紅論壇 - galgame 论坛](https://galgame.dev/)
+    - 主要是 galgame、涩图
+    - [涩图区](https://galgame.dev/category/6/%E6%B6%A9%E5%9B%BE%E5%8C%BA)
+
+- [【互动FLASH/合集/全动态】meet and FOO全合集 409作 3.9G ](https://www.acggw.me/12501.html)
+
+- [Adult Flash Games : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/AdultFlashGamesAndAnimations)
+
+- [Adult Computer Games Collection : Various : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/adult_computer_games_collection)
+
+## meet and fuck game
+- [1 meet-and-fuck-games-collection-2009-2016](https://pornplaybb.com/games-3d-and-2d/meet-and-fuck-games-collection-2009-2016/)
+- [2 Meet And Fuck Games 2024-10-07 By BCT](https://lewdgames.to/meet-and-fuck-games-bct/)
+- [3 Meet And Fuck Collection - 2009-2016 » RomComics - Most Popular XXX Comics, Cartoon Porn ＆ Pics, Incest, Porn Games](https://romcomics.net/porn-games/16713-meet-and-fuck-collection-2009-2016.html)
+- [4 Meet And Fuck games - Hentai Flash Games](https://h-flash.com/tag/meet-and-fuck-games/)
+- [5 Meet and Fuck - Porn Games Produced by Gamesofdesire or Meetandfuckgames - Free Sex Games](https://gamcore.com/meet_and_fuck)
+- [6 Meet and fuck games collection 2015-2016 Anime-Sharing Community](https://www.anime-sharing.com/threads/meet-and-fuck-games-collection-2015-2016.502096/)
+- [7 Meet And Fuck - Full Collection (7 October 2024) + Cheats](https://adultgamescollector.com/2024/10/07/meet-and-fuck-full-collection-12-2020/)
+- [8 Meet And Fuck - Full Collection (2024 October) » Mamba Games](https://mamba-games.com/meet-and-fuck-full-newest-collection-with-cheats/)
+- [9 Meet And Fuck Games Collection](https://svscomics.com/download/334551/meet-and-fuck-2009-2016-march-update)
+
+## honey select
+- [You searched for honey select](https://lewdgames.to/?s=honey+select&post_type=post)
+- [Honey Select Unlimited Free Download (Incl. ALL DLC’s) » SteamUnlocked](https://steamunlocked.pro/honey-select-unlimited-free-download-72/)
+
+
+## 里番
+- [【需魔法】Hanime1.me - H動漫/裏番/線上看](https://hanime1.me/)
+- [ANMAXJP](https://cn.anmaxjp.com/)
+
+## 综合
+- [2048核基地](https://2048.info/)
+    - 影视、图片磁力等资源
+    - AI图片
+- [https://javgg.net/](https://javgg.net/)
+    - 镜像：[https://javgg.co/](https://javgg.co/)
+- [http://javhd.today/](http://javhd.today/)
+- [https://missav.com/](https://missav.com/)
+    - 支持中文，有磁力可下载
+- [https://sextb.net/](https://sextb.net/)
+    - 分类详细，DD、ST路线播放后可嗅探到mp4链接下载
+- [https://jav.rs/](https://jav.rs/)
+    - 支持中文
+- [https://supjav.com/](https://supjav.com/)
+
+## bt
+- [东京图书馆](https://tokyolib.com/)
+
+## 韩漫/h漫
+- [bakamh巴卡漫画](https://bakamh.com/)
+    - 发布页：[https://bakamh.xyz/](https://bakamh.xyz/)
+- [韓漫基地](https://hanmanjd.org/)
