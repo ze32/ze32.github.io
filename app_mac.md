@@ -1,8 +1,6 @@
 ## Mac软件 
 
 ### Mac一些软件下载站点
-
-- [MacApp分享频道](https://macapp.org.cn)
 - [【外网】appstorrent](https://appstorrent.ru)
 - [【外网】haxmac](https://haxmac.cc)
 
@@ -32,13 +30,12 @@
     - Jetbrains 公司出品的智能集成开发环境编辑器，这个社区版是开源免费的。可以用于 python 开发，android 开发用 android studio
     - 软件占用内存比较大，打开大型项目开发时对电脑硬件要求比较高。
     - 同一台电脑不要安装不同的版本，否则补丁会失效的。举例如果安装了pycharm2019、IDEA2020，那么补丁很可能会出现意外情况，不可用多个补丁去用不同版本。
-    - python3.8似乎要2019.1.x才支持。暂时用 2019.1.x 系列
+    - python3.8似乎要2019.1.x才支持。
     - 开启特殊通道【支持2022.2.x~2024.1.x】： [https://3.jetbra.in](https://3.jetbra.in)
     - [特殊通道相关文章](https://blog.csdn.net/qq_31140865/article/details/125831320)
     - 老版本的使用：
         - jdk8开发推荐2018.1.x~2018.2.x，jdk17开发推荐2022.2.x
-        - 2018.1.x~2018.2.x： [访问补丁与教程通道](https://www.jb51.net/softs/669519.html)
-        - 2018.3.x~2019.3.x： 2018.3.x~2019.3.5系列激活（附带激活教程）.zip
+        - 2021.3.x以前的版本可以使用无限重置试用的方式，具体教程参考-->[Jetbrains系列产品重置试用方法 – 知了](https://zhile.io/2020/11/18/jetbrains-eval-reset-deprecated.html)
         - 2018.3.x~2022.1.x： [教程文章参考](https://www.cnblogs.com/Dengv5/p/16418279.html)
     - 部分版本要求的 macOS 记录：
     - 2021.1.x ~ 2021.3.x macOS 10.14 可用
@@ -53,6 +50,8 @@
 ---
 
 ### 压缩解压
+- [bandizip](https://xclient.info/s/bandizip.html)
+    - mac平台最好的压缩解压软件。
 
 - [MacZip](https://maczip.cn/?locale=zh-CN)
     - 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
@@ -61,7 +60,7 @@
 
 ### 系统工具
 
-- [App Cleaner & Uninstaller](https://macapp.org.cn/app/app-cleaner-and-uninstaller/)
+- [App Cleaner & Uninstaller](https://xclient.info/s/app-uninstaller.html)
     - 卸载清理App的好工具
     - v8.1.4 可运行在 macOS 10.14 / 11
     - v7.8.2 可运行在 macOS 10.14 / 11

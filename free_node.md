@@ -41,29 +41,27 @@
     - https://gitlab.com/my740/clash/-/raw/main/config.yaml
         - 节点数量10来个
         - 来源：[my740/clash](https://gitlab.com/my740/clash)
-    - https://ghproxy.net/https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
-        - 节点数量近300，起码200多个无效的
-        - 虽然配置文件是属于 clash 配置，但是很多节点有测速但无法正常科学
-        - 来源：[anaer/Sub](https://github.com/anaer/Sub)
+    - https://ghproxy.net/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
+        - 来源：[free18/v2ray](https://github.com/free18/v2ray)
+    - https://ghproxy.net/https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
+        - 来源：[snakem982/proxypool](https://github.com/snakem982/proxypool)
+    - https://ghproxy.net/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml
+        - 来源：[Barabama/FreeNodes](https://github.com/Barabama/FreeNodes)
+
     - https://ghproxy.net/https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml
     - https://ghproxy.net/https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml
-        - 节点数量10来个
         - 来源：[linzjian666/chromego_extractor](https://github.com/linzjian666/chromego_extractor)
     - https://ghproxy.net/https://raw.githubusercontent.com/Misaka-blog/chromego_merge/refs/heads/main/sub/merged_proxies_new.yaml
         - 来源：[Misaka-blog/chromego_merge](https://github.com/Misaka-blog/chromego_merge)
     - https://ghproxy.net/https://raw.githubusercontent.com/suiyueqingqian/chromego_merge/refs/heads/main/sub/merged_proxies_new.yaml
         - 来源：[suiyueqingqian/chromego_merge](https://github.com/suiyueqingqian/chromego_merge)
-    - https://ghproxy.net/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
-        - 来源：[free18/v2ray](https://github.com/free18/v2ray)
-    - https://ghproxy.net/https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
-        - 来源：[snakem982/proxypool](https://github.com/snakem982/proxypool)
-    - https://ghproxy.net/https://raw.githubusercontent.com/ivwv/chromego_convert/refs/heads/main/outputs/clash_meta_warp.yaml
+        - https://ghproxy.net/https://raw.githubusercontent.com/ivwv/chromego_convert/refs/heads/main/outputs/clash_meta_warp.yaml
     - https://ghproxy.net/https://raw.githubusercontent.com/ivwv/chromego_convert/refs/heads/main/outputs/clash_meta.yaml
         - 来源：[https://github.com/ivwv/chromego_convert](https://github.com/ivwv/chromego_convert)
 
 - base64 v2订阅：
-    - https://ghproxy.net/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/yudou66.txt
-    - https://ghproxy.net/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/nodefree.txt
+    - https://ghproxy.net/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.txt
+    - https://ghproxy.net/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
         - 节点数量100多个
         - 来源：[Barabama/FreeNodes](https://github.com/Barabama/FreeNodes)
     - https://ghproxy.net/https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/base64.txt
@@ -84,6 +82,12 @@
 - Hiddify 才能订阅，虽然是 clash 的配置，但用到了一些特殊的ss协议
     - https://ghproxy.net/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
         - 来源：[aiboboxx/clashfree](https://github.com/aiboboxx/clashfree)
+
+- NekoBox 专用，因为很多无效的，需要测完删除。
+    - https://ghproxy.net/https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+        - 节点数量近300，起码200多个无效的
+        - 虽然配置文件是属于 clash 配置，但是很多节点有测速但无法正常科学
+        - 来源：[anaer/Sub](https://github.com/anaer/Sub)
 
 ---
 
