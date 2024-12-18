@@ -1,6 +1,7 @@
 ## Mac软件 
 
 ### Mac一些软件下载站点
+- [macwk](https://macwk.com.cn/)
 - [【外网】appstorrent](https://appstorrent.ru)
 - [【外网】haxmac](https://haxmac.cc)
 
@@ -22,7 +23,9 @@
 
 ### 开发编程类
 
-- [Android Studio 历史版本 需要科学](https://android-studio.en.uptodown.com/mac/versions)
+- [Android Studio](https://www.androiddevtools.cn/)
+    - [官网镜像](https://developer.android.google.cn/studio?hl=zh-cn)
+    - [历史版本](https://www.androiddevtools.cn/android-studio.html)
     - 由于新的gradle版本支持需要用最新的版本，这个只能尽量用最新的版本了。
     - 2022.2.x支持gradle 7.5，gradle8.9需要2024.1，由于开源项目用的gradle版本都是8以上了，所以只能用最新的了。
 

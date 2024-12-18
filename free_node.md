@@ -77,7 +77,7 @@
 - https://ghproxy.net/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 
 ### [cry0ice/genode](https://github.com/cry0ice/genode)
-- https://ghproxy.net/https://raw.githubusercontent.com/cry0ice/genode/main/public/vmess.txt
+- https://raw.githubusercontent.com/cry0ice/genode/refs/heads/sub/sub.txt
 - 节点数量200多个
 
 ### [snakem982/proxypool](https://github.com/snakem982/proxypool)
@@ -112,7 +112,5 @@
 - [https://github.com/NiREvil/vless](https://github.com/NiREvil/vless)
 
 - [https://github.com/MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram)
-
-- [https://github.com/yangxiaoge/tvbox_cust](https://github.com/yangxiaoge/tvbox_cust)
 
 ---
